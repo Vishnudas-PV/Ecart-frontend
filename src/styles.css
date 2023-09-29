@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+
+  @import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Alegreya:ital,wght@0,400;1,600&family=Alkatra&family=Anton&family=Arbutus&family=Bacasime+Antique&family=Bad+Script&family=Barrio&family=Baumans&family=Bigelow+Rules&family=Black+Ops+One&family=Bungee+Spice&family=Caprasimo&family=Chau+Philomene+One&family=Chivo+Mono&family=Concert+One&family=Dosis:wght@300;400&family=Edu+SA+Beginner:wght@500&family=Elsie+Swash+Caps&family=Foldit:wght@700&family=Kaushan+Script&family=Kurale&family=Lato:ital,wght@0,100;1,400&family=Lisu+Bosa&family=Lobster&family=Lobster+Two&family=Martian+Mono:wght@100;200;300&family=Miltonian+Tattoo&family=Montez&family=Montserrat+Alternates:wght@100;300&family=Montserrat:wght@100;300&family=Oswald:wght@700&family=Permanent+Marker&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:wght@400;500&family=Rakkas&family=Raleway:wght@300;400&family=Righteous&family=Roboto+Condensed&family=Rubik+Iso&family=Rubik+Wet+Paint&family=Sedgwick+Ave+Display&family=Smokum&family=Staatliches&family=Ubuntu&family=Yatra+One&family=Zeyada&display=swap');
+
+  body{
+    font-family: 'Philosopher', sans-serif;
+  }
